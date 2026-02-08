@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "uuid": "d279aeb5-56ba-4080-9d07-efcaa912f2fa",
+        "username": "Test",
+        "nickname": "John Doe"
+    },
+    {
+        "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJUZXN0IiwiZXhwIjoxNzcxMTY5NjkyfQ.d_h6sJFgQQ3kf-Hi7QNHnYvDmX6b5Y3tKDFFXMQnH3I",
+        "token_type": "bearer"
+    }
+]
